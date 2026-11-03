@@ -1,4 +1,4 @@
-# Fundamentos de Python
+# `Fundamentos de Python`
 
 <!-- Prof. Omero Francisco Bertol -->
 <!-- omero@utfpr.edu.br -->
@@ -6,7 +6,8 @@
 ### Avaliações
 |  | Avaliação | Nota |
 |:---:|:---|:---:|
-|  | Avaliação 1 |  |
+| &check; | Atividade Prática | 10 / 10 |
+| &check; | Atividade Avaliativa | 10 / 10 |
 
 
 ### Encontros Síncronos

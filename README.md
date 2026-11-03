@@ -18,7 +18,8 @@
 
 |  | # | Período | Disciplina | Professor(a) | Média |
 |:---:|:---:|:---:|:---|:---|:---:|
-|  | 1 |  | [Introdução à Inteligência Artificial e Aprendizado de Máquina](https://github.com/cintia-shinoda/utfpr_iaga/tree/main/01_Intro-a-IA-e-Aprendizado-de-Maquina) | Denise Fukumi Tsunoda |  |
+|  | 1 |  | [Introdução à Inteligência Artificial e Aprendizado de Máquina](https://github.com/cintia-shinoda/utfpr_iaga/tree/main/01_Intro-a-IA-e-Aprendizado-de-Maquina) | Profa. Denise Fukumi Tsunoda |  |
+|  | 2 |  | Fundamentos de Python | Prof. Omero Francisco Bertol |  |
 |  |  | **Coeficiente de Rendimento (CR)** |  |  |  |
 
 
